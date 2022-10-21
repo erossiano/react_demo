@@ -1,3 +1,7 @@
+# Movie demo app
+
+Esta aplicacion fue creada siguiendo las instrucciones de @FloriPop en [Youtube](https://youtu.be/sZ0bZGfg_m4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
